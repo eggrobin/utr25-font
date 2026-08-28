@@ -560492,7 +560492,7 @@ SplineSet
  662 -150 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A70uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A70 uni20D2
 EndChar
 
 StartChar: uniE07C.nu
@@ -560636,7 +560636,7 @@ SplineSet
  662 -39 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2263uni0338
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2263 uni0338
 EndChar
 
 StartChar: uniE07D.nu
@@ -560780,7 +560780,7 @@ SplineSet
  662 -39 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2263uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2263 uni20D2
 EndChar
 
 StartChar: uniE07E.nu
@@ -561083,7 +561083,7 @@ SplineSet
  365 369 l 1,32,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2266uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2266 uni20D2
 EndChar
 
 StartChar: uniE081.nu
@@ -561210,7 +561210,7 @@ SplineSet
  513 448 l 1,32,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2267uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2267 uni20D2
 EndChar
 
 StartChar: uniE082.nu
@@ -561731,7 +561731,7 @@ SplineSet
  314 114 l 1,32,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A99uni0338
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A99 uni0338
 EndChar
 
 StartChar: uniE087.nu
@@ -561909,7 +561909,7 @@ SplineSet
  512 61 l 1,32,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A9Auni0338
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A9A uni0338
 EndChar
 
 StartChar: uniE088.nu
@@ -562801,7 +562801,7 @@ SplineSet
  290 233 290 233 347 231 c 1,39,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC5uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC5 uni20D2
 EndChar
 
 StartChar: uniE097.nu
@@ -562964,7 +562964,7 @@ SplineSet
  431 665 431 665 374 667 c 1,39,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC6uni20D2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC6 uni20D2
 EndChar
 
 StartChar: uniE098.nu
