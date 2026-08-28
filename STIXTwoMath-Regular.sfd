@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608127961
-ModificationTime: 1621270812
+ModificationTime: 1787953588
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4239,7 +4239,8 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 782 34 16
+WinInfo: 2618 34 16
+AnchorClass2: "overlay""" 
 BeginChars: 1116267 6760
 
 StartChar: .notdef
@@ -107795,6 +107796,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107825,6 +107827,7 @@ PUSHB_4
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -107853,6 +107856,7 @@ PUSHB_4
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -117231,6 +117235,7 @@ PUSHB_5
  24
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" -230 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -145059,6 +145064,7 @@ NPUSHB
  27
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -145663,6 +145669,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 249 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -145746,6 +145753,7 @@ NPUSHB
  27
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -146351,6 +146359,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 248 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -167257,6 +167266,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -168172,6 +168182,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -168273,6 +168284,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -168770,6 +168782,7 @@ NPUSHB
  31
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -169669,6 +169682,7 @@ NPUSHB
  31
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -170810,6 +170824,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173213,6 +173228,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173632,6 +173648,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173699,6 +173716,7 @@ NPUSHB
  24
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173760,6 +173778,7 @@ NPUSHB
  24
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173831,6 +173850,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -173906,6 +173926,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177143,6 +177164,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177180,6 +177202,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177611,6 +177634,7 @@ PUSHB_4
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177650,6 +177674,7 @@ PUSHB_4
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177729,6 +177754,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -177825,6 +177851,7 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -178501,6 +178528,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -178568,6 +178596,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -179358,6 +179387,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -179439,6 +179469,7 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -191777,6 +191808,7 @@ NPUSHB
  27
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -191871,6 +191903,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 249 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -192547,6 +192580,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 248 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -313777,6 +313811,7 @@ NPUSHB
  31
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -314442,6 +314477,7 @@ NPUSHB
  31
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -315826,6 +315862,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -315861,6 +315898,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -318320,6 +318358,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -318354,6 +318393,7 @@ PUSHB_6
  50
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -318586,6 +318626,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -318661,6 +318702,7 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -323258,6 +323300,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -323300,7 +323343,7 @@ StartChar: uni2AC6
 Encoding: 10950 10950 3113
 Width: 720
 GlyphClass: 2
-Flags: W
+Flags: WO
 TtInstrs:
 NPUSHB
  51
@@ -323357,6 +323400,7 @@ NPUSHB
  30
 CALL
 EndTTInstrs
+AnchorPoint: "overlay" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
