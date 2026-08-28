@@ -4,14 +4,14 @@ FullName: UTR25 Math Regular
 FamilyName: UTR25 Math
 Weight: Regular
 Copyright: Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)\nCopyright 2026 Robin Leroy
-Version: 2.1301 b171
+Version: 16
 ItalicAngle: 0
 UnderlinePosition: -103
 UnderlineWidth: 51
 Ascent: 762
 Descent: 238
 InvalidEm: 0
-sfntRevision: 0x0002214e
+sfntRevision: 0x00100000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608127961
-ModificationTime: 1787956727
+ModificationTime: 1787957648
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4176,7 +4176,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 2.1301 based on STIX Two Math 2.13 b171" "" "STIX Fonts and STIX Two are trademarks of The Institute of Electrical and Electronics Engineers, Inc." "" "Ross Mills, John Hudson & Paul Hanslow, Tiro Typeworks Ltd; with prior portions MicroPress Inc., and Coen Hoffman. Math alphanumeric sans derived from Source Sans, designed by Paul Hunt.+AAoA-Adjustments by Robin Leroy for UTR #25." "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 16 based on STIX Two Math 2.13 b171" "" "STIX Fonts and STIX Two are trademarks of The Institute of Electrical and Electronics Engineers, Inc." "" "Ross Mills, John Hudson & Paul Hanslow, Tiro Typeworks Ltd; with prior portions MicroPress Inc., and Coen Hoffman. Math alphanumeric sans derived from Source Sans, designed by Paul Hunt.+AAoA-Adjustments by Robin Leroy for UTR #25." "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 55
@@ -550664,6 +550664,7 @@ SplineSet
  440 667 l 1,39,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC5 uni0338
 EndChar
 
 StartChar: uniE018.nu
@@ -550900,6 +550901,7 @@ SplineSet
  524 604 524 604 477 635 c 1,43,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2AC6 uni0338
 EndChar
 
 StartChar: uniE01E.nu
