@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608127961
-ModificationTime: 1787954196
+ModificationTime: 1787956727
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -91,6 +91,7 @@ Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 29" { "'aalt' Access
 Lookup: 1 0 0 "'flac' Flattened Accents over Capitals in Mathematical text layout lookup 30" { "'flac' Flattened Accents over Capitals in Mathematical text layout lookup 30 subtable"  } ['flac' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 31" { "Single Substitution lookup 31 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 32" { "Single Substitution lookup 32 subtable"  } []
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 4" { "'mark' Mark Positioning lookup 4-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'ROM ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0"  "'kern' Horizontal Kerning lookup 0 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'ROM ' 'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Cyrillic lookup 1" { "'kern' Horizontal Kerning in Cyrillic lookup 1 per glyph data 0"  "'kern' Horizontal Kerning in Cyrillic lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Greek lookup 2" { "'kern' Horizontal Kerning in Greek lookup 2 per glyph data 0"  "'kern' Horizontal Kerning in Greek lookup 2 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > ) ]
@@ -4241,10 +4242,10 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2856 34 16
+WinInfo: 2482 34 16
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "overlay""" 
+AnchorClass2: "overlay" "'mark' Mark Positioning lookup 4-1"
 BeginChars: 1116267 6760
 
 StartChar: .notdef
@@ -318932,7 +318933,7 @@ StartChar: uni2A7E
 Encoding: 10878 10878 3037
 Width: 720
 GlyphClass: 2
-Flags: W
+Flags: WO
 TtInstrs:
 PUSHB_6
  10
@@ -318955,11 +318956,11 @@ SplineSet
  71 640 l 1,5,-1
  650 360 l 1,6,-1
  650 350 l 1,0,-1
-650 141 m 1,7,-1
- 71 -141 l 1,8,-1
+650 141 m 5,7,-1
+ 71 -141 l 5,8,-1
  71 -73 l 1,9,-1
  650 209 l 1,10,-1
- 650 141 l 1,7,-1
+ 650 141 l 5,7,-1
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style in Mathematical text layout lookup 12 subtable" uni2A7E.ssty uni2A7E.ssty2
