@@ -1,28 +1,28 @@
 SplineFontDB: 3.2
-FontName: STIXTwoMath-Regular
-FullName: STIX Two Math Regular
-FamilyName: STIX Two Math
-Weight: Book
-Copyright: Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)
-Version: 2.13 b171
+FontName: UTR25Math-Regular
+FullName: UTR25 Math Regular
+FamilyName: UTR25 Math
+Weight: Regular
+Copyright: Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)\nCopyright 2026 Robin Leroy
+Version: 2.1301 b171
 ItalicAngle: 0
 UnderlinePosition: -103
 UnderlineWidth: 51
 Ascent: 762
 Descent: 238
 InvalidEm: 0
-sfntRevision: 0x00022148
+sfntRevision: 0x0002214e
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 496 454880503 29429]
+XUID: [1021 496 454880503 31538]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1608127961
-ModificationTime: 1787953588
+ModificationTime: 1787954196
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -94,6 +94,7 @@ Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kernin
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Cyrillic lookup 1" { "'kern' Horizontal Kerning in Cyrillic lookup 1 per glyph data 0"  "'kern' Horizontal Kerning in Cyrillic lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Greek lookup 2" { "'kern' Horizontal Kerning in Greek lookup 2 per glyph data 0"  "'kern' Horizontal Kerning in Greek lookup 2 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 3" { "'kern' Horizontal Kerning lookup 3 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'ROM ' 'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 43 49 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  63 c cacute ccircumflex ccaron cdotaccent ccedilla uni1E09 uni0188
@@ -4173,7 +4174,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "2.13 b171;STIX;STIXTwoMath-Regular" "" "Version 2.13 b171" "" "STIX Fonts and STIX Two are trademarks of The Institute of Electrical and Electronics Engineers, Inc." "Tiro Typeworks Ltd" "Ross Mills, John Hudson & Paul Hanslow, Tiro Typeworks Ltd; with prior portions MicroPress Inc., and Coen Hoffman. Math alphanumeric sans derived from Source Sans, designed by Paul Hunt." "The Scientific and Technical Information eXchange (STIX) fonts are intended to satisfy the demanding needs of authors, publishers, printers, and others working in the scientific, medical, and technical fields. They combine a comprehensive Unicode-based collection of mathematical symbols and alphabets with a set of text faces suitable for professional publishing. The fonts are available royalty-free under the SIL Open Font License." "https://www.stixfonts.org" "https://www.tiro.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 2.1301 based on STIX Two Math 2.13 b171" "" "STIX Fonts and STIX Two are trademarks of The Institute of Electrical and Electronics Engineers, Inc." "" "Ross Mills, John Hudson & Paul Hanslow, Tiro Typeworks Ltd; with prior portions MicroPress Inc., and Coen Hoffman. Math alphanumeric sans derived from Source Sans, designed by Paul Hunt.+AAoA-Adjustments by Robin Leroy for UTR #25." "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 55
@@ -4239,7 +4240,9 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2618 34 16
+WinInfo: 306 34 16
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "overlay""" 
 BeginChars: 1116267 6760
 
@@ -67249,6 +67252,7 @@ PUSHB_2
  0
 WCVTP
 EndTTInstrs
+AnchorPoint: "overlay" -230 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -323343,7 +323347,7 @@ StartChar: uni2AC6
 Encoding: 10950 10950 3113
 Width: 720
 GlyphClass: 2
-Flags: WO
+Flags: W
 TtInstrs:
 NPUSHB
  51
