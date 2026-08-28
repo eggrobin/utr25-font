@@ -4242,7 +4242,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2482 34 16
+WinInfo: 2856 34 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "overlay" "'mark' Mark Positioning lookup 4-1"
@@ -318933,7 +318933,7 @@ StartChar: uni2A7E
 Encoding: 10878 10878 3037
 Width: 720
 GlyphClass: 2
-Flags: WO
+Flags: W
 TtInstrs:
 PUSHB_6
  10
@@ -550083,6 +550083,7 @@ SplineSet
  513 450 l 1,32,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2267 uni0338
 EndChar
 
 StartChar: uniE00F.nu
@@ -550166,6 +550167,7 @@ SplineSet
  513 356 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A7E uni0338
 EndChar
 
 StartChar: uniE010.nu
@@ -550251,6 +550253,7 @@ SplineSet
  410 457 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A7D uni0338
 EndChar
 
 StartChar: uniE011.nu
@@ -550428,7 +550431,8 @@ SplineSet
  383 534 l 1,32,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2266 uni20D2
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2266 uni0338
 EndChar
 
 StartChar: uniE016.nu
@@ -551862,6 +551866,7 @@ SplineSet
  662 -150 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A70 uni0338
 EndChar
 
 StartChar: uniE026.nu
@@ -560870,6 +560875,7 @@ SplineSet
  405 257 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A7D uni20D2
 EndChar
 
 StartChar: uniE07F.nu
@@ -560957,6 +560963,7 @@ SplineSet
  513 355 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A7E uni20D2
 EndChar
 
 StartChar: uniE080.nu
@@ -561295,6 +561302,7 @@ SplineSet
  309 204 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A95 uni0338
 EndChar
 
 StartChar: uniE083.nu
@@ -561380,6 +561388,7 @@ SplineSet
  513 153 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A96 uni0338
 EndChar
 
 StartChar: uniE084.nu
@@ -561468,6 +561477,7 @@ SplineSet
  381 68 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A95 uni20D2
 EndChar
 
 StartChar: uniE085.nu
@@ -561555,6 +561565,7 @@ SplineSet
  513 153 l 1,24,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" uni2A96 uni20D2
 EndChar
 
 StartChar: uniE086.nu
